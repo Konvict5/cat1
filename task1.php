@@ -31,4 +31,6 @@ echo $a + $b;
 
 echo "<br>";
 
+echo "Hello!";
+
 ?>
